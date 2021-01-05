@@ -2,3 +2,4 @@
 01_render_scene/*.exr
 02_depth_integrator/*.jpg
 02_depth_integrator/*.exr
+10_inverse_rendering/*.png

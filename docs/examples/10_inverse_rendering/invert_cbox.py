@@ -19,6 +19,8 @@ scene = load_file('cbox/cbox.xml')
 # Find differentiable scene parameters
 params = traverse(scene)
 
+print(params)
+
 # Discard all parameters except for one we want to differentiate
 params.keep(['red.reflectance.value'])
 

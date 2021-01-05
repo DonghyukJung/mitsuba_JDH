@@ -1,3 +1,11 @@
+*.vcxproj
+*.filters
+ext_build
+x64
+.vs
+out
+dist
+
 # CMake
 /CMakeCache.txt
 /CPackConfig.cmake
